@@ -1,0 +1,25 @@
+RELATÓRIO DE PROFISSÕES
+
+Profissão: s
+A Profissão é Regulamentada?: s
+O Tipo de Tarefa Exercída Envolve Riscos?: s
+Área de Conhecimento: s
+Exigência de Escolaridade: s
+Jornada de Trabalho em Horas: 2
+Salário Médio :2.00
+
+Profissão: d
+A Profissão é Regulamentada?: d
+O Tipo de Tarefa Exercída Envolve Riscos?: d
+Área de Conhecimento: d
+Exigência de Escolaridade: d
+Jornada de Trabalho em Horas: 2
+Salário Médio :2.00
+
+Profissão: hdgfsdhgvfjy
+A Profissão é Regulamentada?: lkvnldjbvjksb
+O Tipo de Tarefa Exercída Envolve Riscos?: djbfvkdb
+Área de Conhecimento: dkhjvgfisdyg
+Exigência de Escolaridade: sfvbsdkjbv
+Jornada de Trabalho em Horas: 54889
+Salário Médio :59659.00

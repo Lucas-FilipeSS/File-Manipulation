@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1543112763 source:c:\users\eliane\desktop\matheus\m.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"m.h"
+	<string.h>
+
+1543112763 c:\users\eliane\desktop\matheus\m.h
+
+1543112763 source:c:\users\eliane\desktop\matheus\main.c
+	<stdio.h>
+	<stdlib.h>
+	"m.h"
+
+1543156860 source:c:\users\eliane\desktop\matheus - copia\m.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"m.h"
+	<string.h>
+
+1543155163 c:\users\eliane\desktop\matheus - copia\m.h
+
+1543155061 source:c:\users\eliane\desktop\matheus - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"m.h"
+
+1543261786 source:c:\users\eliane\desktop\profissões\m.c
+
+1543253270 c:\users\eliane\desktop\profissões\m.h
+
+1543263443 source:c:\users\eliane\desktop\profissões\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Profissoes.h"
+
+1543262051 source:c:\users\eliane\desktop\profissões\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Profissoes.h"
+	<string.h>
+
+1543262051 source:c:\users\eliane\desktop\profissões\cadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Profissoes.h"
+	<string.h>
+
+1543267291 source:c:\users\eliane\desktop\profissões\alterar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Profissoes.h"
+	<string.h>
+
+1543267233 source:c:\users\eliane\desktop\profissões\excluir.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Profissoes.h"
+	<string.h>
+
+1543267552 source:c:\users\eliane\desktop\profissões\listar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Profissoes.h"
+	<string.h>
+
+1543266304 source:c:\users\eliane\desktop\profissões\pesquisar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Profissoes.h"
+	<string.h>
+
+1543262850 c:\users\eliane\desktop\profissões\profissoes.h
+
+1543262050 source:c:\users\eliane\desktop\profissões\complemento.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Profissoes.h"
+	<string.h>
+
+1543265335 source:c:\users\eliane\desktop\profissões\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Profissoes.h"
+	<string.h>
+
